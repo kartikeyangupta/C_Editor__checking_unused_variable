@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+void main{
+	int x = 10;
+	int y = 5;
+	int z = 20;
+	int m = 7;
+	printf("%d",x);
+	printf("%d",y);
+	printf("%d",z);
+	printf("%d",x);
+	printf("%d",z);
+}
